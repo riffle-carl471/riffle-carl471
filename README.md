@@ -6,7 +6,7 @@ With over **15 years of hands-on experience**, I specialize in full-stack develo
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,7 +29,7 @@ With over **15 years of hands-on experience**, I specialize in full-stack develo
 
 ---
 
-## 💼 Expertise
+## Expertise
 
 - **Full-Stack Development**: React, Next.js, TypeScript, JavaScript | Node.js, Python (Django, Flask, FastAPI)
 - **Security & Authentication**: OAuth, token-based auth, RBAC
@@ -38,7 +38,7 @@ With over **15 years of hands-on experience**, I specialize in full-stack develo
 
 ---
 
-## 📫 Connect
+## Connect
 
 - **Email**: [rifflecarl471@gmail.com](mailto:rifflecarl471@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/carl-riffle-702557399)
